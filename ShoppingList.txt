@@ -6,7 +6,7 @@
 ! *** easylist:easylist/easylist_general_block.txt ***
 !
 ! -----------------------Shopping-----------------------!
-! amazon india
+! Amazon.in (Amazon India) - this will speed up loading time exponentially  
 www.amazon.in###gbox-section
 www.amazon.in##.acsUxWidget:nth-of-type(4)
 www.amazon.in###rhf-container
