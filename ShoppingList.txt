@@ -1,13 +1,12 @@
 ! Version: 0.1a (alpha)
 ! Title: IndianNuisance
 ! Last modified: 11 Nov 2018
-! 
-
+! Homepage: https://github.com/LeCommonMan/IndianNuisance
+! Git URL : https://raw.githubusercontent.com/LeCommonMan/IndianNuisance/master/ShoppingList.txt
 ! *** easylist:easylist/easylist_general_block.txt ***
-
+!
 ! -----------------------Shopping-----------------------!
 ! amazon india
-
 www.amazon.in###gbox-section
 www.amazon.in##.acsUxWidget:nth-of-type(4)
 www.amazon.in###rhf-container
