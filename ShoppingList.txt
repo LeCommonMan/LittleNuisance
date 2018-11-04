@@ -1,0 +1,17 @@
+! Version: 0.1a (alpha)
+! Title: IndianNuisance
+! Last modified: 11 Nov 2018
+! 
+
+! *** easylist:easylist/easylist_general_block.txt ***
+
+! -----------------------Shopping-----------------------!
+! amazon india
+
+www.amazon.in###gbox-section
+www.amazon.in##.acsUxWidget:nth-of-type(4)
+www.amazon.in###rhf-container
+www.amazon.in###center-bottom
+www.amazon.in##.slotContainer.a-spacing-none.a-section:nth-of-type(9)
+www.amazon.in##.slot2.a-spacing-none.a-section
+www.amazon.in##.acsUxWidget
