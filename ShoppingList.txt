@@ -1,11 +1,11 @@
-! Version: 0.1a (alpha)
+! Version: 0.1b (alpha)
 ! Title: IndianNuisance
-! Last modified: 11 Nov 2018
+! Last modified: 09 May 2019
 ! Homepage: https://github.com/LeCommonMan/IndianNuisance
 ! Git URL : https://raw.githubusercontent.com/LeCommonMan/IndianNuisance/master/ShoppingList.txt
 ! *** easylist:easylist/easylist_general_block.txt ***
 !
-! -----------------------Shopping-----------------------!
+! -----------------------Shopping-----------------------
 ! Amazon.in (Amazon India) - this will speed up loading time exponentially  
 www.amazon.in###gbox-section
 www.amazon.in##.acsUxWidget:nth-of-type(4)
@@ -14,3 +14,35 @@ www.amazon.in###center-bottom
 www.amazon.in##.slotContainer.a-spacing-none.a-section:nth-of-type(9)
 www.amazon.in##.slot2.a-spacing-none.a-section
 www.amazon.in##.acsUxWidget
+
+! -----------------------News -----------------------
+old.reddit.com##.commentsignupbar.infobar
+old.reddit.com##.listingsignupbar.infobar
+bangaloremirror.indiatimes.com##.gallery1
+
+! -----------------------Forums --------------------
+www.fountainpennetwork.com###index_stats > div:nth-of-type(4)
+www.fountainpennetwork.com##div.__xX5bsponsored20content5d.clearfix.ipsSideBlock:nth-of-type(1)
+www.fountainpennetwork.com##div.__xX5bsponsored20content5d.clearfix.ipsSideBlock:nth-of-type(3)
+www.fountainpennetwork.com##div.clearfix.ipsSideBlock:nth-of-type(1)
+www.techradar.com##.carousel__title
+www.techradar.com##.jw-reset.jw-video
+www.techradar.com##.jw-reset.jw-wrapper
+www.techradar.com###botr_1v6djO3j_APjl6osP_div > .jw-reset.jw-aspect
+forum.amd-osx.com###phpbb_announcement
+unix.stackexchange.com##.js-dismissable-hero.s-hero__dark.s-hero
+
+
+! ---- Mails, social ---- 
+www.linkedin.com##.right-rail.feed-right-rail
+mail.yahoo.com##.e_dRA.r_P.q_Z281SGl.p_R
+||s.yimg.com/rx/builds/7.86.769.1537222801/iframe-controller-page.html$subdocument
+mail.yahoo.com##.o_h.p_a.W_6D6F.H_6D6F.b_0.P_0.M_0.ir_n
+
+! ---- Others ------ !
+www.gingersoftware.com##.header_container_wrapper
+www.gingersoftware.com##.smb-header
+imgur.com###right-content
+www.last.fm##.chartlist-break
+www.last.fm##.js-link-block.link-block.join-cta
+www.deezer.com##.unlogged-socials-btn-container
