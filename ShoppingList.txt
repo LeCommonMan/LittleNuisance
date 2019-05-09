@@ -1,5 +1,5 @@
 ! Version: 0.1b (alpha)
-! Title: IndianNuisance
+! Title: LittleNuisance
 ! Last modified: 09 May 2019
 ! Homepage: https://github.com/LeCommonMan/IndianNuisance
 ! Git URL : https://raw.githubusercontent.com/LeCommonMan/IndianNuisance/master/ShoppingList.txt
