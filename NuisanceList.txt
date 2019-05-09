@@ -31,6 +31,7 @@ www.techradar.com##.jw-reset.jw-wrapper
 www.techradar.com###botr_1v6djO3j_APjl6osP_div > .jw-reset.jw-aspect
 forum.amd-osx.com###phpbb_announcement
 unix.stackexchange.com##.js-dismissable-hero.s-hero__dark.s-hero
+askubuntu.com##.js-dismissable-hero.s-hero__dark.s-hero
 
 
 ! ---- Mails, social ---- 
