@@ -2,7 +2,7 @@
 abblock to filter out nuisance from websites
 
 
-This block list is starting with basic filters to block **nuisance from online shopping websites operating in India** as in this case the user is not "*their product*".
+This block list is starting with basic filters to block **nuisance from online shopping and news websites operating in India**.
 
 
 filter list url for uBlock Origin - https://raw.githubusercontent.com/LeCommonMan/LittleNuisance/master/NuisanceList.txt
