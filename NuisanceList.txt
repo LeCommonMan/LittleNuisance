@@ -1,7 +1,7 @@
 ! Version: 0.1b (alpha)
 ! Title: LittleNuisance
 ! Last modified: 09 Jun 2020
-! Expires: 7 days
+! Expires: 1 days
 ! Homepage: https://github.com/LeCommonMan/IndianNuisance
 ! Git URL : https://raw.githubusercontent.com/LeCommonMan/IndianNuisance/master/ShoppingList.txt
 ! *** easylist:easylist/easylist_general_block.txt ***
