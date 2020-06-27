@@ -54,9 +54,9 @@ linkedin.com##DIV.premium-insights
 linkedin.com##DIV.insights-upsell-premium-button-container
 linkedin.com##DIV.insights-upsell-value-description-container
 linkedin.com##LI.pymk-card.promo
-linkedin.com###ember3434
-linkedin.com###ember3462
-linkedin.com###ember747
+www.linkedin.com###ember3434
+www.linkedin.com###ember3462
+www.linkedin.com###ember747
 
 mail.yahoo.com##.e_dRA.r_P.q_Z281SGl.p_R
 ||s.yimg.com/rx/builds/7.86.769.1537222801/iframe-controller-page.html$subdocument
