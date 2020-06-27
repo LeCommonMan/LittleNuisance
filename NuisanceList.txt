@@ -57,6 +57,8 @@ linkedin.com##LI.pymk-card.promo
 www.linkedin.com###ember3434
 www.linkedin.com###ember3462
 www.linkedin.com###ember747
+linkedin.com##.feed-follows-module
+linkedin.com##.ember-view.pv3.feed-shared-news-module
 
 mail.yahoo.com##.e_dRA.r_P.q_Z281SGl.p_R
 ||s.yimg.com/rx/builds/7.86.769.1537222801/iframe-controller-page.html$subdocument
