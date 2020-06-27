@@ -1,7 +1,7 @@
 ! Version: 0.2b (alpha)
 ! Title: LittleNuisance
 ! Last modified: 09 Jun 2020
-! Expires: 1 days
+! Expires: 7 days
 ! Homepage: https://github.com/LeCommonMan/LittleNuisance
 ! Git URL : https://raw.githubusercontent.com/LeCommonMan/LittleNuisance/master/NuisanceList.txt
 ! *** easylist:easylist/easylist_general_block.txt ***
@@ -54,9 +54,7 @@ linkedin.com##DIV.premium-insights
 linkedin.com##DIV.insights-upsell-premium-button-container
 linkedin.com##DIV.insights-upsell-value-description-container
 linkedin.com##LI.pymk-card.promo
-www.linkedin.com###ember3434
-www.linkedin.com###ember3462
-www.linkedin.com###ember747
+linkedin.com##.ember-view.pv-course-recommendations
 linkedin.com##.feed-follows-module
 linkedin.com##.ember-view.pv3.feed-shared-news-module
 
