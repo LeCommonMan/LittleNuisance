@@ -57,6 +57,7 @@ linkedin.com##LI.pymk-card.promo
 linkedin.com##.ember-view.pv-course-recommendations
 linkedin.com##.feed-follows-module
 linkedin.com##.ember-view.pv3.feed-shared-news-module
+linkedin.com##li:has-text(Promoted)
 
 mail.yahoo.com##.e_dRA.r_P.q_Z281SGl.p_R
 ||s.yimg.com/rx/builds/7.86.769.1537222801/iframe-controller-page.html$subdocument
